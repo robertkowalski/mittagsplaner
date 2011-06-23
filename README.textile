@@ -1,0 +1,8 @@
+h2. "Mittagsplaner"
+
+*Copyright (c) 2011, R. Kowalski*
+*All rights reserved.*
+
+
+h3. Source will be pushed when the NDA is lifted
+
